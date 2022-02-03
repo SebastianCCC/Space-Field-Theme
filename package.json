@@ -1,0 +1,21 @@
+{
+  "name": "space-field",
+  "displayName": "space-field",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.63.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Space Field",
+        "uiTheme": "vs-dark",
+        "path": "./themes/space-Field-color-theme.json"
+      }
+    ]
+  }
+}
