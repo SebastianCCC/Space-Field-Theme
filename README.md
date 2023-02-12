@@ -6,11 +6,7 @@ Space Field is a dark Visual Studio Theme inspired by Sebastián Veggiani (Field
 
 ## Screenshots
 
-Screenshot 1
-![](https://github.com/SebastianCCC/Space-Field-Theme/blob/main/screenshots/syntax.png)
-
-Screenshot 2
-![](https://github.com/SebastianCCC/Space-Field-Theme/blob/main/screenshots/objectsyntax.png)
+![](https://github.com/SebastianCCC/Space-Field-Theme/blob/main/assets/screenshots/SpaceField.png)
 
 Theme made by SebastianCCC (Github)
 
