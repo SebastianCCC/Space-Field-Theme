@@ -1,14 +1,25 @@
 {
   "name": "space-field",
-  "displayName": "space-field",
-  "description": "",
+  "displayName": "Space Field Theme",
+  "description": "A dark visual studio code theme that support jsx components with syntax highlighting",
   "version": "0.0.1",
+  "publisher": "SebastianCCC",
   "engines": {
     "vscode": "^1.63.0"
+  },
+  "author": {
+    "name": "Sebastian Christopher (noreply.seechris[at]gmail.com)"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "icon-theme",
+    "dark",
+    "clean",
+    "minimallistic"
+  ],
+  "icon": "assets/icons/SpaceFieldLogo.png",
   "contributes": {
     "themes": [
       {
@@ -17,5 +28,15 @@
         "path": "./themes/space-Field-color-theme.json"
       }
     ]
+  },
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "homepage": "https://www.seechris.dev/work/apps/spacefield",
+  "bugs": {
+    "url": "https://github.com/SebastianCCC/Space-Field-Theme/issues",
+    "email": "noreply.seechris@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SebastianCCC/Space-Field-Theme"
   }
 }
