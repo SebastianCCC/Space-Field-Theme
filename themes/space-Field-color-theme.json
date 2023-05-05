@@ -10,6 +10,8 @@
     "badge.background": "#FFAE57",
     "badge.foreground": "#161721",
     "button.background": "#FFAE57",
+    "editorInlayHint.background": "#343D4A",
+    "editorInlayHint.foreground": "#C7C7C7",
     "button.foreground": "#161721",
     "button.hoverBackground": "#5D499EBB",
     "debugExceptionWidget.background": "#272D38",
